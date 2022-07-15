@@ -62,4 +62,10 @@ Untuk mengedit Slider, buka halaman beranda Klinik Sengkang. Lalu, klik "Sunting
 Maka, list gambarnya itu adalah sekumpulan link gambar yang terletak di bawahnya `const list = [`. Untuk formatnya, harus diapit oleh kutip dan diakhiri dengan koma (contoh: `"//kliniksengkang.id/wp-content/uploads/2022/06/apotek-sengkang-1-scaled-1.webp",`).
 
 <!-- blog start -->
+## Blog
+
+- [Install Workflow Automa dari Digimart](https://github.zenia.my.id/tulisan/digimart)
+- [Mengatasi Bun Error Illegal Instruction](https://github.zenia.my.id/tulisan/bun)
+- [Cara Enkripsi File](https://github.zenia.my.id/tulisan/enkripsi)
+- [Auto Sisipkan Blog di README](https://github.zenia.my.id/tulisan/readme)
 <!-- blog end -->
